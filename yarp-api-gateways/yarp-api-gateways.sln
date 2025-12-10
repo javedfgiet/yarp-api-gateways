@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpGateWays", "YarpGateWay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimisticApi", "OptimisticApi\OptimisticApi.csproj", "{DFF634DC-B379-49A2-9C03-D5240BC373F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteUpgrade", "WebSiteUpgrade\WebSiteUpgrade.csproj", "{C1574E0B-BECD-4278-97AF-06B14CC7BBD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DFF634DC-B379-49A2-9C03-D5240BC373F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF634DC-B379-49A2-9C03-D5240BC373F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF634DC-B379-49A2-9C03-D5240BC373F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1574E0B-BECD-4278-97AF-06B14CC7BBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1574E0B-BECD-4278-97AF-06B14CC7BBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1574E0B-BECD-4278-97AF-06B14CC7BBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1574E0B-BECD-4278-97AF-06B14CC7BBD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
